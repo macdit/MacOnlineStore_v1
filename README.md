@@ -1,2 +1,2 @@
 # MacOnlineStore_v1
-This is dynamic web application is a eCommerce store management portal which allows user to views items, place orders, and perform basic customer service functions. The admin user has more rights such as performing generic CRUD operations and others additional features.
+This dynamic web application is an eCommerce management portal which allows users to views items, place orders, and perform basic customer service functions. The admin user (s) has more rights such as performing generic CRUD operations and others additional features.
