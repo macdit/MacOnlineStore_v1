@@ -20,7 +20,7 @@ This dynamic web application is an e-commerce management portal which allowed it
 Locally: http://localhost:8080/{endpoint}{options}
 
 # GET /items Endpoint
-•	Route:  GET  http://localhost:8080/items/ 
+##	Route:#  GET  http://localhost:8080/items/ 
 •	Request Body:
 •	Effect on database: get all items/resources from the macditstore database
 •	Response Status Code: 200 (OK)
