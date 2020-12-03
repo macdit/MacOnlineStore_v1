@@ -1,16 +1,16 @@
-## E-Commerce Management Portal
+# E-Commerce Management Portal
 
 # Product Description
 This dynamic web application is an e-commerce management portal which allowed its regular user to view items, signup to be a member and place order. The administrator will be allowed to perform generic CRUD operations (Create, Read, update and delete) and other additional features like controlling items, orders and customers’ actions.
 
 # This application was created using the following software tools
-•	JDK 1.8 
-•	Tomcat 9.0
-•	PostgreSQL 13.0
-•	Junit
-•	Apache Maven
-•	JDBC Driver 
-•	Postman for testing api
+-	JDK 1.8 
+-	Tomcat 9.0
+-	PostgreSQL 13.0
+-	Junit
+-	Apache Maven
+-	JDBC Driver 
+-	Postman for testing api
 
 # API Description
 -	Endpoints/Routes
@@ -132,15 +132,19 @@ In addition make sure the following environment are configure correctly in your 
 
 #Setup
 1-	Download the following to your local host using the following url
-$ git clone [Application_URL]
+> git clone [Application_URL]
 2-	Run macditstore-setup.sql file to create required database and tables for the application
 3-	Setup Tomcat server
 4-	Manually perform the following actions in order:
 •	Use maven build tool to package the application into war file:
-$ mvn clean package
+> mvn clean package
 •	Deploy the application locally using the Tomcat server by copy generatd war file in step 4 above to  webapps folder in Tomcat directory.
 •	Run startup.sh/startup.bat in the Tomcat folder
 •	Go to your browser address bar and supply the landing package url as followed:
 http//localhost:8080/items/
-•	
+
+# Contributors
+
+# External Resources
+
 
